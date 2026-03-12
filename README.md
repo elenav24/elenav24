@@ -1,5 +1,5 @@
 <h1 align="center">hi!! i'm elena :) 🍓🌟🎀</h1>
-<h3 align="center">i'm an aspiring software engineer who loves mixing creativity with technical problem-solving! as a full-stack developer, i've been recently advancing my skills in web development and ui/ux design!</h3>
+<h3 align="center">i'm an aspiring software engineer who loves mixing creativity with technical problem-solving! as a full-stack developer, i've been recently advancing my skills in web development and ui/ux design.</h3>
 
 ### I also...
 
