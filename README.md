@@ -1,5 +1,6 @@
 <h1 align="center">hi!! i'm elena :) 🍓🌟🎀</h1>
 <h3 align="center">i'm an aspiring software engineer who loves mixing creativity with technical problem-solving! as a full-stack developer, i've been recently advancing my skills in web development and ui/ux design.</h3>
+<img src="https://user-images.githubusercontent.com/74038190/216654116-d0e8d227-7977-4edc-8d36-63461bda9503.gif" align="right" alt="cute cat with laptop" width="200"/>
 
 ### I also...
 
