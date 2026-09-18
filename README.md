@@ -4,7 +4,7 @@
 
 ### I also...
 
-<img src="https://acmcsuf.com/assets/badge-acm.svg" alt="acm-logo" height="15" /> am the current **Treasurer** of the [Association for Computing Machinery (ACM) at CSUF.](https://acmcsuf.com/)
+<img src="https://acmcsuf.com/assets/badge-acm.svg" alt="acm-logo" height="15" /> am the previous **Treasurer** of the [Association for Computing Machinery (ACM) at CSUF.](https://acmcsuf.com/)
 
 <img src="https://microsoft.com/favicon.ico?v2" alt="microsoft-logo" height="15" /> was a **2025 Software Engineer Intern** at Microsoft on their AI Platform Team.
 
