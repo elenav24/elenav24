@@ -17,5 +17,5 @@
 <a href="https://www.linkedin.com/in/elenamarquez24/" target="_blank"><img align="center" src="https://github.com/user-attachments/assets/c4a99bd4-ce4e-452f-a051-775c5b9ec86f" width="60" /></a>
 <a href="https://instagram.com/elenaavmm" target="_blank"><img align="center" src="https://github.com/user-attachments/assets/4272fdf0-6153-4ca2-ace3-d866e52d4ce7" width="50" /></a>
 <a href="https://discord.com/users/831245698745499688" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" alt="discord-icon" width="60" /></a>
-<img align="right" src="https://komarev.com/ghpvc/?username=elenav24&color=ff69b4" />
+<!-- <img align="right" src="https://komarev.com/ghpvc/?username=elenav24&color=ff69b4&abbreviated=true" /> -->
 
